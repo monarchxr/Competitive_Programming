@@ -1,6 +1,7 @@
 # Competitive_Programming
 My Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/monarchxr)
+![Leetcode Stats](https://leetcard.jacoblin.cool/monarchxr?ext=contest)
 
 
 
