@@ -10,4 +10,4 @@ My Codeforces stats
 
 
 My Atcoder stats
-[![](https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=monarchxr)](https://github.com/akmhmgc/atcoder-stats)
+[![Atcoder Stats](https://atcoder-readme-stats.vercel.app/stats/monarchxr?show_history=5&width=450)](https://github.com/monarchxr/atcoder-readme-stats)
