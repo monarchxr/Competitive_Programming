@@ -6,7 +6,7 @@ My Leetcode stats
 
 My Codeforces stats
 ![](https://raw.githubusercontent.com/monarchxr/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/monarchxr/cf-stats/main/output/light_card.svg)
 
 
 My Atcoder stats
