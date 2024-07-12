@@ -5,7 +5,7 @@ My Leetcode stats
 
 
 My Codeforces stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=monarchxr)
+![](https://raw.githubusercontent.com/monarchxr/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 
 
